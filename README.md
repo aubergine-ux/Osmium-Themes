@@ -2,11 +2,11 @@
 
 # Osmium Themes
 
-![Themes](https://img.shields.io/badge/themes-8-6b21a8?style=for-the-badge)
+![Themes](https://img.shields.io/badge/themes-7-6b21a8?style=for-the-badge)
 ![Format](https://img.shields.io/badge/format-.osmtheme-0F5C58?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-c084fc?style=for-the-badge)
 
-A collection of custom themes for **Osmium**, eight palettes with native `.osmtheme` files.
+A collection of custom themes for **Osmium**, seven palettes with native `.osmtheme` files.
 
 </div>
 
