@@ -21,10 +21,6 @@ A collection of custom themes for **Osmium**, 11 palettes with native `.osmtheme
 - **Mocha** — warm, low-contrast dark
 - **Ruby Star** — gemstone red over wine-black gradients
 
-Aubergine and Emerald share the same structure and contrast ratios, only the accent hue changes (`#6b21a8` vs `#0F5C58`).
-
-Ruby Star is gradient-based rather than flat. The tinting lives in the `--neutral-700/800/900` ramp, so surfaces fade continuously instead of tiling per element. It ships with `forceAccent: true` — set your custom accent to `#e0244a` to drive the primary color.
-
 ### Pride
 
 - **Lesbian Pride** — flag gradient accents on dark
